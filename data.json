@@ -1,0 +1,62 @@
+[
+    {
+        "nome": "JavaScript",
+        "descrição": "JavaScript é uma linguagem de programação leve, interpretada e orientada a objetos, amplamente utilizada para desenvolvimento web.",
+        "ano": 1995,
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+        "nome": "Python",
+        "descrição": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua legibilidade e simplicidade.",
+        "ano": 1991,
+        "link": "https://www.python.org/"
+    },
+    {
+        "nome": "Java",
+        "descrição": "Java é uma linguagem de programação orientada a objetos, conhecida por sua portabilidade e uso em aplicações corporativas.",
+        "ano": 1995,
+        "link": "https://www.oracle.com/java/"
+    },
+    {
+        "nome": "C++",
+        "descrição": "C++ é uma linguagem de programação de alto nível e de uso geral, criada como uma extensão da linguagem C, com recursos de programação orientada a objetos.",
+        "ano": 1985,
+        "link": "https://isocpp.org/"
+    },
+    {
+        "nome": "C#",
+        "descrição": "C# é uma linguagem de programação moderna, orientada a objetos e de alto nível, desenvolvida pela Microsoft, amplamente usada para criar aplicativos para o ecossistema Windows e web com .NET.",
+        "ano": 2000,
+        "link": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+    },
+    {
+        "nome": "PHP",
+        "descrição": "PHP é uma linguagem de script de código aberto do lado do servidor, amplamente utilizada para desenvolvimento web, que pode ser embutida em HTML.",
+        "ano": 1995,
+        "link": "https://www.php.net/"
+    },
+    {
+        "nome": "Ruby",
+        "descrição": "Ruby é uma linguagem de programação dinâmica, de código aberto, focada na simplicidade e produtividade, conhecida por sua sintaxe elegante.",
+        "ano": 1995,
+        "link": "https://www.ruby-lang.org/pt/"
+    },
+    {
+        "nome": "Swift",
+        "descrição": "Swift é uma linguagem de programação poderosa e intuitiva desenvolvida pela Apple para iOS, macOS, watchOS e tvOS.",
+        "ano": 2014,
+        "link": "https://swift.org/"
+    },
+    {
+        "nome": "Go",
+        "descrição": "Go, também conhecida como Golang, é uma linguagem de programação desenvolvida pelo Google, conhecida por sua simplicidade, eficiência e suporte a concorrência.",
+        "ano": 2009,
+        "link": "https://golang.org/"
+    },
+    {
+        "nome": "TypeScript",
+        "descrição": "TypeScript é uma linguagem de programação desenvolvida pela Microsoft que é um superconjunto tipado de JavaScript, projetada para desenvolvimento de aplicações em larga escala.",
+        "ano": 2012,
+        "link": "https://www.typescriptlang.org/"
+    }
+]
