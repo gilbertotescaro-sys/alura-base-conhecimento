@@ -68,7 +68,7 @@
     "descricao": "Linguagem de programação focada em segurança, velocidade e concorrência, sem depender de um coletor de lixo.",
     "data_criacao": "2010",
     "link": "https://www.rust-lang.org/",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png",
     "tags": ["linguagem de programação", "sistemas", "segurança de memória"]
   },
   {
