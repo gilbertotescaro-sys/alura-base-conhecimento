@@ -40,8 +40,8 @@ function renderizarCards(dados) {
 
         article.innerHTML = `
         <h2>${iconHtml}${dado.nome}</h2>
-        <p>${dado.ano}</p>
-        <p>${dado.descrição}</p>
+        <p>${dado.data_criacao}</p>
+        <p>${dado.descricao}</p>
         <a href="${dado.link}" target="_blank">Saiba mais</a>
         `;
         cardContainer.appendChild(article);
