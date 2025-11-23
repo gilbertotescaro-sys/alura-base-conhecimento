@@ -123,6 +123,32 @@ article h2 {
     color: var(--primary-color); /* Define a cor do texto do título do artigo */
 }
 
+.lang-icon {
+    display: inline-flex;
+    width: 28px;
+    height: 28px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    line-height: 1;
+    vertical-align: middle;
+    flex-shrink: 0;
+}
+
+.card-icon {
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: transparent;
+}
 article p {
     margin: 0.5rem 0; /* Define as margens superior e inferior do parágrafo */
     line-height: 1.6; /* Define a altura da linha para melhor legibilidade */
